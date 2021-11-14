@@ -4,7 +4,7 @@
 <p>Effective date: November 14, 2021</p>
 
 
-<p>SmartBooks Live ("us", "we", or "our") operates the SmartBooks Live mobile application (the "Service").</p>
+<p>SmartBooks Live ("us", "we", or "our") operates the Wadul Live mobile application (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for SmartBooks Live is created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy Generator</a>.</p>
 
@@ -102,7 +102,6 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: smartbooks.live@gmail.com</li>
-            <li>By visiting this page on our website: smartbooks.live</li>
+        <li>By email: wadulwadulcorp@gmail.com</li>
       
         </ul>
