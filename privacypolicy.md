@@ -1,7 +1,7 @@
 <h1>Privacy Policy</h1>
 
 
-<p>Effective date: December 20, 2019</p>
+<p>Effective date: November 14, 2021</p>
 
 
 <p>SmartBooks Live ("us", "we", or "our") operates the SmartBooks Live mobile application (the "Service").</p>
